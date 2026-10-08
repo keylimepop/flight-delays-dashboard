@@ -116,7 +116,7 @@ Air traffic control (ATC) delay ranks first, even though airline issues cause mo
 ## Run it locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/flight-delays-dashboard.git
+git clone https://github.com/keylimepop/flight-delays-dashboard.git
 cd flight-delays-dashboard
 pip install -r requirements.txt
 streamlit run app.py
